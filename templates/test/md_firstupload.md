@@ -1,5 +1,5 @@
 ---
-author: Student McStudentFace
+author: John Massarano
 title: My First Markdown Upload
 date: 2025-08-26
 course: Metaphysics
